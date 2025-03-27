@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
-  fmt.Println("Hello git")
+  a := 1 + 1
+  fmt.Println(a)
 }
 
