@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
   a := 1 + 1
-  fmt.Println(a)
+  sum := a *3
+  fmt.Println(sum)
 }
 
